@@ -19,3 +19,14 @@
 | 🐧 [Palmer-Penguins](https://github.com/aanchalcoder18/palmer-penguins-r-visualization) | R, ggplot2 & R Markdown | Created progressive data visualizations using R, ggplot2, and tidyverse. Converted the analysis into an R Markdown report to demonstrate reproducible workflows and clear documentation. Showcases step-by-step enhancements in plot design — including color mapping, faceting, labeling, and annotation — to communicate insights effectively.|
 
 ***
+
+
+***
+
+# Tableau
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 🐧  | Tableau | bleh|
+
+***
