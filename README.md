@@ -2,6 +2,12 @@
 
 ***
 
+# Resume
+📑 PDF Resume
+👩🏽‍💻 [Hackerrank Profile](https://www.hackerrank.com/profile/aanchalsaxena018) 
+
+***
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
