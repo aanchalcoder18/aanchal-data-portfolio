@@ -36,6 +36,6 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🐧  | Tableau | bleh|
+| 📊 [Retail Sales & Profit Analysis](https://public.tableau.com/app/profile/aanchal2844/viz/RetailSalesProfitAnalysisTableauProject/RetailSalesProfitAnalysis)  | Tableau | Created visualizations using Tableau based on data on sales for past 3 years.|
 
 ***
