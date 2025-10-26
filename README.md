@@ -3,7 +3,7 @@
 ***
 
 # Resume
-📑 PDF Resume  
+📑 [PDF Resume](https://github.com/aanchalcoder18/aanchal-data-portfolio/blob/6db3d78cf5666dfc0cdb7bc7e05a5895498f3a0c/Aanchal%20Saxena2025.pdf)  
 
 ***
 
@@ -13,9 +13,6 @@
 |---|---|---|
 | 💡 [SQL-Practice](https://github.com/aanchalcoder18/sql-practice-portfolio) | SQL problem-solving | A collection of SQL practice problems focused on real-world data analysis tasks. Each query demonstrates skills in joins, filtering, aggregation, and subqueries — with detailed notes on debugging. | 
 | 👩🏽‍💻 [Hackerrank Profile](https://www.hackerrank.com/profile/aanchalsaxena018) | SQL problems | A collection of SQL practice problems focused on building skills from easy to advance.| 
-
-
-
 
 ***
 
