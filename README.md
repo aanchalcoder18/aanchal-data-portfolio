@@ -3,7 +3,7 @@
 ***
 
 # Resume
-📑 [PDF Resume](https://github.com/aanchalcoder18/aanchal-data-portfolio/blob/9939eaa2c16dfe4d943ae33906944b8e574e43fd/Aanchal_Saxena_Resume.pdf)  
+📑 [PDF Resume](https://github.com/aanchalcoder18/aanchal-data-portfolio/blob/ccdd818ed1c6d005710252a48b30554585c826e3/Aanchal_Saxena_Resume.pdf)  
 
 ***
 
