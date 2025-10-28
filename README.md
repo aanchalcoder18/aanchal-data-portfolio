@@ -1,9 +1,19 @@
 # 🗂️ Aanchal's Data Portfolio 
 
-***
+*** 
 
 # Resume
 📑 [PDF Resume](https://github.com/aanchalcoder18/aanchal-data-portfolio/blob/ccdd818ed1c6d005710252a48b30554585c826e3/Aanchal_Saxena_Resume.pdf)  
+
+***
+
+# Capstone
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 🚲 [Cyclistic Bike-Share Data Analysis](https://github.com/aanchalcoder18/analytics-capstone) | Excel, SQL, R | A data analytics project analyzing Cyclistic bike-share data using Excel, SQL, and R to compare usage patterns between casual riders and annual members and uncover insights to guide marketing strategies. | 
+
+***
 
 ***
 
